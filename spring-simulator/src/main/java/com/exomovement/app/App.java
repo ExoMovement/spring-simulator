@@ -1,4 +1,4 @@
-package exomovement;
+package com.exomovement.app;
 
 /**
  * Hello world!
